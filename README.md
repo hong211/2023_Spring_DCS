@@ -1,5 +1,6 @@
 # 2023_Spring_DCS
 開課教授: 張添烜
+
 score: A+
 
 |  | rank | demo | score |  | rank | demo | score |
@@ -9,7 +10,7 @@ score: A+
 | Lab03 | -- |1de| 100 | HW3 | 52 |1de| 90.44 |
 | Lab04 | -- |1de| 100 | HW4 | 44 |1de| 89.3 |
 | Lab05 | -- |1de| 100 | HW5 | 7 |1de| 99.16 |
-| Lab06 | -- |2de| 100 | OT | -- |2de| 80 |
+| Lab06 | -- |2de| 70 | OT | -- |2de| 80 |
 | Lab07 | -- |1de| 100 | FP | 24 |1de| 93.21 |
 | Lab08 | -- |1de| 100 |
 | Lab09 | -- |1de| 100 |
